@@ -2,8 +2,7 @@
 <html lang="pt-br">
     <head>
         <meta charset="utf-8">
-        <link type="text/css" rel="stylesheet" href="estilo.css">
-        <title>CV - Luciano Gomes</title> 
+                <title>CV - Luciano Gomes</title> 
     </head>
      <body> 
         <img src="Fotos/Foto3.jpg" alt="Luciano Gomes fundo" width="1500" height="70">
@@ -60,9 +59,6 @@
         </p><hr>
         <h2>Informações complementaress</h2></h2>
         <p>Buscando novas oportunidades no mercado de trabalho.</p><br>
-        <strong><a href="Fotos/Foto1.jpg" target="_blank">Perfil</a></strong> &nbsp <!--&nbsp; é para dar um espaço-->
-        <strong><a href="Fotos/Foto2.jpg" target="_blank">Companheira</a></strong>
-        <img src="fotos/foto3.jpg" alt="foto de fundo" height="70" width="1500">
     </body> 
 </html>
 
