@@ -1,12 +1,9 @@
 <html lang="pt-br">
     <head>
-        <meta charset="utf-8">
-       <title>CV - Luciano Gomes</title> 
+        <meta charset="utf-8"
     </head>
      <body> 
-        <img src="Fotos/Foto3.jpg" alt="Luciano Gomes fundo" width="1500" height="70">
         <h1>Luciano Gomes de Assis</h1>
-        <p><img src="Fotos/Foto1.jpg" width="200" height="200" alt="Fotinha do Cabeçudinho "></p>
         <p>Brasileiro, 28 anos, Casado<br>
         <a href="https://www.linkedin.com/in/luciano-gomes-b301106a//">luciano.g5@hotmail.com</a><br>
         (11) 98708-3569 | (11) 0000-0000<br>
