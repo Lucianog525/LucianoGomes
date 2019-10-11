@@ -1,8 +1,7 @@
-<!DOCTYPE html>
 <html lang="pt-br">
     <head>
         <meta charset="utf-8">
-                <title>CV - Luciano Gomes</title> 
+       <title>CV - Luciano Gomes</title> 
     </head>
      <body> 
         <img src="Fotos/Foto3.jpg" alt="Luciano Gomes fundo" width="1500" height="70">
